@@ -1,6 +1,6 @@
 # Cronômetro JS ⏱️
 ## About 📕
- timer developed during Nelio Alves' Javascript course, with the purpose of exercising and challenging basic Javascript learning
+ timer developed during Luiz Otávio' Javascript course, with the purpose of exercising and challenging basic Javascript learning
 ## Features 🛠️
  - Start timer
  - Stop timer
