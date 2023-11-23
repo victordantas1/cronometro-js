@@ -9,3 +9,5 @@
  - HTML: to make the project structure
  - CSS: to style the project
  - Javascrpit: to give interactivity to the project
+## Link to Project
+ https://cronometro-vct.netlify.app/
